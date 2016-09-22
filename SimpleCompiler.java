@@ -2,7 +2,7 @@ import java.io.*;
 import java_cup.runtime.*;
 
 
-public class P6 {
+public class Compiler {
     public static void main(String[] args)
         throws IOException // may be thrown by the scanner
     {
